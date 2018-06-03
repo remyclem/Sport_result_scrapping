@@ -1,2 +1,3 @@
 geckodriver.log
 scrapped_data/*
+.ipynb_checkpoints
